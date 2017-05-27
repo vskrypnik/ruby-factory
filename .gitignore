@@ -1,0 +1,8 @@
+.git
+.rspec
+.ruby-gemset
+.byebug_history
+
+tmp/
+spec/
+spec/examples.txt
